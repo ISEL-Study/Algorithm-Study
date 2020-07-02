@@ -1,7 +1,6 @@
 #include <iostream>
 #include <queue>
 
-
 using namespace std ;
 
 void bfs(int oldx, int oldy, int x, int y, int size) ;
@@ -34,6 +33,7 @@ void bfs(int oldx, int oldy, int x, int y, int size)
   fill(map[0], map[300], 0) ;
   fill(visit[0], visit[300], false) ;
   visit[oldx][oldy] = true ;
+  
   q.push(make_pair(oldx, oldy)) ;
 
   while(!q.empty())
@@ -43,7 +43,6 @@ void bfs(int oldx, int oldy, int x, int y, int size)
 
     int tx = temp.first ;
     int ty = temp.second ;
-    //printf("%d %d\n", tx, ty) ;
     
     if(tx == x && ty == y)
     {
@@ -66,6 +65,5 @@ void bfs(int oldx, int oldy, int x, int y, int size)
       }
     }  
   }
-
   printf("%d\n", map[x][y]) ;  
 }
