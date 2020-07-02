@@ -12,9 +12,9 @@
 
 ## 문제풀이
 
-| 날짜| 문제|문제링크| 카테고리|
-|:-:| :-:|:-:|:-:|
-|7/2|나이트의 이동|https://www.acmicpc.net/problem/7562| 그래프
-|7/7|연구소|https://www.acmicpc.net/problem/14502| 그래프
-|7/7|DSLR|https://www.acmicpc.net/problem/9019| 그래프
-|7/7|다리놓기|https://www.acmicpc.net/problem/1010| DP
+| 날짜| 문제|문제링크| 카테고리| 출석자|
+|:-:| :-:|:-:|:-:|:-:|
+|7/2|나이트의 이동|https://www.acmicpc.net/problem/7562| 그래프 | 민우, 영빈, 윤호, 수진, 여훈 |
+|7/7|연구소|https://www.acmicpc.net/problem/14502| 그래프 ||
+|7/7|DSLR|https://www.acmicpc.net/problem/9019| 그래프||
+|7/7|다리놓기|https://www.acmicpc.net/problem/1010| DP||
