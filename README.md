@@ -12,16 +12,16 @@
 
 ## 문제풀이
 
-| 날짜| 문제|문제링크| 카테고리| 출석자|
-|:-:| :-:|:-:|:-:|:-:|
-|7/2|나이트의 이동|https://www.acmicpc.net/problem/7562| 그래프 | 민우, 영빈, 윤호, 수진, 여훈 |
-|7/7|연구소|https://www.acmicpc.net/problem/14502| 그래프 | 영빈, 윤호, 수진, 여훈, 진우|
-|7/7|DSLR|https://www.acmicpc.net/problem/9019| 그래프|영빈, 윤호, 수진, 여훈, 진우|
-|7/7|다리놓기|https://www.acmicpc.net/problem/1010| DP|영빈, 윤호, 수진, 여훈, 진우|
-|7/9|에라토스테네스의 체|https://www.acmicpc.net/problem/2960| 구현||
-|7/9|심심한 준규|https://www.acmicpc.net/problem/2892| 문자열||
-|7/14|퇴사|https://www.acmicpc.net/problem/14501| DP||
-|7/14|신입사원|https://www.acmicpc.net/problem/1946| 그리디||
-|7/14|로봇 청소기| https://www.acmicpc.net/problem/14503 | 시뮬레이션||
-|7/17|제곱수의 합| https://www.acmicpc.net/problem/1699 | DP ||
-|7/17| 적록색약 | https://www.acmicpc.net/problem/10026 | 그래프 ||
+| 날짜| 문제|문제링크| 카테고리|난이도| 출석자|
+|:-:| :-:|:-:|:-:|:-:|:-:|
+|7/2|나이트의 이동|https://www.acmicpc.net/problem/7562| 그래프 | Silver 2 | 민우, 영빈, 윤호, 수진, 여훈 |
+|7/7|연구소|https://www.acmicpc.net/problem/14502| 그래프 |Gold 5  | 영빈, 윤호, 수진, 여훈, 진우|
+|7/7|DSLR|https://www.acmicpc.net/problem/9019| 그래프 | Gold 5 | 영빈, 윤호, 수진, 여훈, 진우|
+|7/7|다리놓기|https://www.acmicpc.net/problem/1010| DP |Silver 5 | 영빈, 윤호, 수진, 여훈, 진우|
+|7/9|에라토스테네스의 체|https://www.acmicpc.net/problem/2960 | 구현|Silver 4 | |
+|7/9|심심한 준규|https://www.acmicpc.net/problem/2892| 문자열 |Gold 4 | | 
+|7/14|퇴사|https://www.acmicpc.net/problem/14501| DP|Silver 4| |
+|7/14|신입사원|https://www.acmicpc.net/problem/1946| 그리디|Silver 1|||
+|7/14|로봇 청소기| https://www.acmicpc.net/problem/14503 | 시뮬레이션|Gold 5||
+|7/17|제곱수의 합| https://www.acmicpc.net/problem/1699 | DP |Silver 3||
+|7/17| 적록색약 | https://www.acmicpc.net/problem/10026 | 그래프 |Gold 5||
