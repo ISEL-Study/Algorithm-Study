@@ -24,7 +24,7 @@ main()
         else break ;
     }
     
-    cout << "I is " << i << "\n" ;
+    // cout << "I is " << i << "\n" ;
     
     for(int j = 2 ; j <= N ; j++)
         if(dp[j] != 1)
