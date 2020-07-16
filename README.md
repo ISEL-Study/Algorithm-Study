@@ -23,5 +23,9 @@
 |7/14|퇴사|https://www.acmicpc.net/problem/14501| DP|Silver 4| |
 |7/14|신입사원|https://www.acmicpc.net/problem/1946| 그리디|Silver 1|||
 |7/14|로봇 청소기| https://www.acmicpc.net/problem/14503 | 시뮬레이션|Gold 5||
-|7/17|제곱수의 합| https://www.acmicpc.net/problem/1699 | DP |Silver 3||
-|7/17| 적록색약 | https://www.acmicpc.net/problem/10026 | 그래프 |Gold 5||
+|7/16|제곱수의 합| https://www.acmicpc.net/problem/1699 | DP |Silver 3||
+|7/16| 적록색약 | https://www.acmicpc.net/problem/10026 | 그래프 |Gold 5||
+|7/21| 지뢰찾기 | https://www.acmicpc.net/problem/2140 | 구현 |Gold 5||
+|7/21| 줄세우기  | https://www.acmicpc.net/problem/2631 | DP |Gold 5||
+|7/21| 토너먼트 만들기 | https://www.acmicpc.net/problem/2262 | 그리디 | Silver 1||
+
